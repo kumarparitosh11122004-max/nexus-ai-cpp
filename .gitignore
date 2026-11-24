@@ -1,0 +1,8 @@
+build/
+cmake-build-*/
+*.exe
+*.out
+data/chat_history.txt
+.DS_Store
+.vscode/
+.idea/
